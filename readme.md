@@ -23,7 +23,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/space-monkey22/readme-assests/blob/main/whisper%20of%20the%20heart.gif" width="280" alt="Ghibli Closing"/>
+  <img src="whisper of the heart.gif" width="280" alt="Ghibli Closing"/>
 </p>
 
 <p align="center"><em>“We each need to find our own inspiration. Sometimes, it’s not easy.” – Kiki's delivery service </em></p>
