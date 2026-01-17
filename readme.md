@@ -1,8 +1,5 @@
 
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=space-monkey22&label=Profile+Views&color=ff69b4&style=flat-square" alt="Visitor Count"/>
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/imgaya3" target="_blank">
