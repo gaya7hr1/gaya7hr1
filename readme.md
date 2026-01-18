@@ -13,5 +13,5 @@
   <img src="koi_pond.gif" width="280" alt="fish pond"/>
 </p>
 <p align="center">
-  <em>“Little by little, one travels far.” – Studio Ghibli</em>
+  <em>“Little by little, one travels far.”</em>
 </p>
